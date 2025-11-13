@@ -1,0 +1,13 @@
+0
+h1{
+	color: #a86432;
+}
+
+body{
+	background-color: #0cc0df;
+}
+
+p{
+	color: #f77f00;
+
+ }
